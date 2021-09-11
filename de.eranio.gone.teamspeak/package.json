@@ -1,0 +1,32 @@
+{
+  "name": "G-One TeamSpeak",
+  "description": "G-One TeamSpeak by Eranio",
+  "version": "0.0.1",
+  "identifier": "de.eranio.gone.teamspeak",
+  "engines": {
+    "teamspeak": 1
+  },
+	"homepage": "https://eranio.de",
+	"repository": {
+		"url": "https://github.com/Erani0",
+		"type": "git",
+    "directory": "GOne-TeamSpeak"
+	},
+  "image": "GONE.png",
+  "license": "MIT",
+  "author": {
+    "name": "Eranio",
+    "url": "https://eranio.de",
+    "userTag": "Eranio@myteamspeak.com"
+  },
+  "content": {
+    "themes": [
+	  {
+        "name": "G-One Theme",
+        "source": "GONE.css",
+        "apiVersion": 1,
+        "image": "GONE.png"
+      }
+    ]
+  }
+}

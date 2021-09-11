@@ -1,0 +1,13 @@
+.tsv-background-canvas.bottom {
+	bottom: 0;
+	right: 0;
+	-webkit-mask: url(Gonelogo.svg)
+}
+.tsv-background-canvas.small {
+	-webkit-mask: url(Gonelogosmall.svg)
+}
+.tsv-background-canvas {
+	-webkit-mask: url(Gonelogosmall.svg)
+}
+
+
